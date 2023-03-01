@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Júlia Aparecida</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Eae, sou a Júlia.
+    Amo esportes e dança, faço ingles e alguns cursos online no tempo livre
+
+    </string>
+
+</resources>
